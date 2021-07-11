@@ -1,4 +1,4 @@
-# DinoBars
+# Dino Bars
 This is a mod for ARK: Survival Evolved. It adds health, torpor and stamina bars to dinosaurs.
 
 ### Steam Workshop link
